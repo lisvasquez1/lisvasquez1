@@ -22,9 +22,9 @@ Como estudiante en etapa inicial, este portafolio evolutivo documenta mis avance
 
 #### Proyectos y Laboratorios Académicos (UTP):
 - **Configuración de Perfil Profesional y Marca Digital:** Proyecto parcial evaluado en la asignatura Sistemas Colaborativos (UTP, 2026).
-- **Subneteo IPv4 y VLAN:** Converción de bits, direccionamiento, segmentación y uso de Cisco Packet Tracer.
+- **Subneteo IPv4 y VLAN:** Converción de bits, direccionamiento, segmentación y uso de Cisco Packet Tracer (Redes de Computadora I, UTP 2026).
 - **Base de Firmas de Malware usando ABB (Árbol Binario de Búsqueda):** Proyecto final en Java para almacenar y consultar firmas de malware (Estructura de Datos, UTP 2026).
-- **Programación de diferentes sistemas:** Usando lenguaje C y Java(NetBeans) (Programación, UTP 2026).
+- **Programación de diferentes sistemas:** Usando lenguaje C y Java(NetBeans) (Programación I, UTP 2026).
   
 ### 3. CV en LinkedIn y Canales Digitales
 Mantengo una identidad profesional coherente e interconectada en las plataformas digitales:

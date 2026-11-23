@@ -30,8 +30,7 @@ Como estudiante en etapa inicial, este portafolio evolutivo documenta mis avance
 Mantengo una identidad profesional coherente e interconectada en las plataformas digitales:
 
 * **Perfil Profesional en LinkedIn:** [Haz clic aquí para ver mi LinkedIn](https://www.linkedin.com/in/lis-v%C3%A1squez-280abb435/)
-* **Curriculum Vitae Digital (PDF):** [Descargar CV Actualizado]
-(./CV-Lis-Vasquez.pdf)
+* **Curriculum Vitae Digital (PDF):** [Descargar CV Actualizado](./CV-Lis-Vasquez.pdf)
 * **Correo Institucional UTP:** lis.vasquez@utp.ac.pa
 
 <p align="center">

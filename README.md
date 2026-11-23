@@ -31,7 +31,7 @@ Mantengo una identidad profesional coherente e interconectada en las plataformas
 
 * **Perfil Profesional en LinkedIn:** [Haz clic aquí para ver mi LinkedIn](https://www.linkedin.com/in/lis-v%C3%A1squez-280abb435/)
 * **Curriculum Vitae Digital (PDF):** [Descargar CV Actualizado]
-(https://www.linkedin.com/in/lis-v%C3%A1squez-280abb435/)
+(./CV-Lis-Vasquez.pdf)
 * **Correo Institucional UTP:** lis.vasquez@utp.ac.pa
 
 <p align="center">
